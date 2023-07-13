@@ -37,3 +37,6 @@ Criar o wireframe da sua loja virtual com:
 Paleta de cores -> (Tailwind)[https://tailwindcss.com/docs/customizing-colors] / (Material UI)[https://tailwindcss.com/docs/customizing-colors]
 Tipografia -> (Google fonts)[https://fonts.google.com/]
 Markdown sintaxe -> (Markdown)[https://markdownguide.org/basic-syntax]
+
+
+Link do prototipo ->https://www.figma.com/file/OpV5HAvxaAJKQOKbAlcxTa/Untitled?type=design&mode=design&t=A0AagXbMUCegPJSX-1
